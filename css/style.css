@@ -1,10 +1,10 @@
+
 body{
   text-align: center;
-  width: 100%;
   color: #333;
   overflow: scroll;
   overflow-x: hidden;
-  max-width: calc(50%, 600px);
+  max-width: 100%
 
 }
 #main{
@@ -14,6 +14,7 @@ body{
   font: 16px Segoe UI, roboto, helvetica Neue, Arial, sans-serif ;
   padding: 5px;
   border-radius: 8px;
+
  
 }
 #title{
@@ -52,18 +53,19 @@ h3{
 }
 li{
   padding: 10px 0px;
-  display: list-item;
-  width: 500px;
+  display: list-item center;
+  width: calc(50%, 300px)
+  
 }
 ul{
-  max-width: 550px;
+  max-width: 100%;
   text-align: left;
   margin: 0 auto 20px auto;
   list-style-type: disc;
 }
 blockquote{
   font-style: italic;
-  max-width: 545px;
+  max-width: 40%;
   margin: 0px auto 50px auto;
   text-align: justify;
   padding: 5px;
