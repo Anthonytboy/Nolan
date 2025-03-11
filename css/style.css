@@ -46,15 +46,14 @@ p{
   max-width: 100%;
 }
 h3{
-  margin: 50px 0px;
+  margin: 35px 0px;
   font: 18.72em; 
-  
   
 }
 li{
-  padding: 12px 0px;
+  padding: 10px 0px;
   display: list-item;
-  width: 410px;
+  width: 500px;
 }
 ul{
   max-width: 550px;
