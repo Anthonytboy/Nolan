@@ -14,6 +14,7 @@ body{
   font: 16px Segoe UI, roboto, helvetica Neue, Arial, sans-serif ;
   padding: 5px;
   border-radius: 8px;
+  max-width: calc(100%, 300px);
 
  
 }
